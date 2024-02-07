@@ -1,0 +1,214 @@
+Twitter_ID;Group;Region;Description
+jmilei;Президент Аргентины;Argentina
+gabrielboric;Президент Чили;Chile
+luchoxbolivia;Президент Боливии;Bolivia
+lulaoficial;Президент Бразилии;Brazil
+petrogustavo;Президент Колумбии;Colombia
+diazcanelb;Президент Кубы;Cuba
+danielnoboaok;Президент Эквадора;Ecuador
+lopezobrador_;Президент Мексики;Mexico
+presidenciani;Президент Никарагуа;Nicaragua
+nitocortizo;Президент Панамы;Panama
+santipenap;Президент Парагвая;Paraguay
+presidenciaperu;Президент Перу;Peru
+nicolasmaduro;Президент Венесуэлы;Venezuela
+luisabinader;Президент Доминиканской Республики;Dominicana
+nayibbukele;Президент Сальвадора;Salvador
+claudiashein;Представитель мексиканской оппозиции;Mexico
+xochitlgalvez;Представитель мексиканской оппозиции;Mexico
+chinofloressv;Представитель сальвадорской оппозиции;Salvador
+blandonjose;Представитель панамской оппозиции;Panama
+joseantoniokast;Представитель чилийской оппозиции;Chile
+mariacorinaya;Представитель венесуэльской оппозиции;Venezuelabarevaleon;Президент Гватемалы;Guatemala
+brodheadjd;Старший советник премьер-министра;Canada
+yfblanchet;Член Палаты общин Канады, лидер партии Квебекский блок;Canada
+KamalKheraLib;Член Палаты общин Канады;Canada
+terrybeech;Член Палаты общин Канады;Canada
+KirstenHillmanA;Посол Канады в США;Canada
+chrisschrimpf;Республиканская партия;USA
+LTrover;Республиканская партия;USA
+DougBurgum;Республиканская партия;USA
+GovChristie;Республиканская партия;USA
+LofstromLauren;Республиканская партия;USA
+BryanDGriffin;Республиканская партия;USA
+GenerraPeck;Республиканская партия;USA
+jasonsjohnson;Республиканская партия;USA
+ryan_tyson;Республиканская партия;USA
+DustinCarmack;Республиканская партия;USA
+JamesUthmeierFL;Республиканская партия;USA
+RonDeSantis;Республиканская партия;USA
+KLF;Республиканская партия;USA
+nachamasol;Республиканская партия;USA
+betsyankney;Республиканская партия;USA
+NikkiHaley;Республиканская партия;USA
+WillHurd;Республиканская партия;USA
+AsaHutchinson;Республиканская партия;USA
+PJQualityGuru;Республиканская партия;USA
+marctshort;Республиканская партия;USA
+devin_omalley;Республиканская партия;USA
+chipsaltsman;Республиканская партия;USA
+Mike_Pence;Республиканская партия;USA
+TriciaOhio;Республиканская партия;USA
+BenYoho;Республиканская партия;USA
+VivekGRamaswamy;Республиканская партия;USA
+d3casp3r;Республиканская партия;USA
+votetimscott;Республиканская партия;USA
+Stapleton_MT;Республиканская партия;USA
+FrancisSuarez;Республиканская партия;USA
+TheStevenCheung;Республиканская партия;USA
+susie57;Республиканская партия;USA
+JasonMillerinDC;Республиканская партия;USA
+LaCivitaC;Республиканская партия;USA
+briantjack;Республиканская партия;USA
+realDonaldTrump;Республиканская партия;USA
+CardonaLebron;Демократическая партия;USA
+marwilliamson;Демократическая партия;USA
+Dennis_Kucinich;Демократическая партия;USA
+RobertKennedyJr;Демократическая партия;USA
+michaelwtyler;Демократическая партия;USA
+munozka315;Демократическая партия;USA
+quentinfullks;Демократическая партия;USA
+juliecr46;Демократическая партия;USA
+JoeBiden;Демократическая партия;USA
+SAISHopkins;Аналитический центр;USA
+CarnegieEnbow;Аналитический центр;USA
+AEI;Аналитический центр;USA
+BrookingsInst;Аналитический центр;USA
+CSIS;Аналитический центр;USA
+TheWilsonCenter;Аналитический центр;USA
+AtlanticCouncil;Аналитический центр;USA
+GatestoneInst;Аналитический центр;USA
+CSBAdc;Аналитический центр;USA
+CNASdc;Аналитический центр;USA
+AUinUA;Посольства;Australia
+ausintheus;Посольства;Australia
+AusEmbChina;Посольства;Australia
+AusHouseLondon;Посольства;Australia
+PosolAustralia;Посольства;Australia
+MakeMayoMatter;Другие партии;Australia
+RobKatter3;Другие партии;Australia
+MehreenFaruqi;Другие партии;Australia
+AdamBandt;Другие партии;Australia
+PerinDavey;Либерально-национальная коалиция;Australia
+D_LittleproudMP;Либерально-национальная коалиция;Australia
+SenPaterson;Либерально-национальная коалиция;Australia
+AngusTaylorMP;Либерально-национальная коалиция;Australia
+KevinHoganMP;Либерально-национальная коалиция;Australia
+Birmo;Либерально-национальная коалиция;Australia
+JNampijinpa;Либерально-национальная коалиция;Australia
+SenatorHume;Либерально-национальная коалиция;Australia
+MarisePayne;Либерально-национальная коалиция;Australia
+sussanley;Либерально-национальная коалиция;Australia
+PeterDutton_MP;Либерально-национальная коалиция;Australia
+ClareONeilMP;Лейбористкая партия;Australia
+MadeleineMHKing;Лейбористкая партия;Australia
+MarkDreyfusKCMP;Лейбористкая партия;Australia
+LindaBurneyMP;Лейбористкая партия;Australia
+CatherineKingMP;Лейбористкая партия;Australia
+Bowenchris;Лейбористкая партия;Australia
+Mark_Butler_MP;Лейбористкая партия;Australia
+SenKatyG;Лейбористкая партия;Australia
+JEChalmers;Лейбористкая партия;Australia
+SenatorWong;Лейбористкая партия;Australia
+RichardMarlesMP;Лейбористкая партия;Australia
+AustraliaPM;Лейбористкая партия;Australia
+AlboMP;Лейбористкая партия;Australia
+AustralianLabor;Лейбористкая партия;Australia
+AlisonLeClaire;Внешнеполитическое направление;Canada
+melaniejoly;Внешнеполитическое направление;Canada
+sbergeron;Другие партии;Canada
+mario_beaulieu;Другие партии;Canada
+taylorbachrach;Другие партии;Canada
+nikiashton;Другие партии;Canada
+CharlieAngusNDP;Другие партии;Canada
+theJagmeetSingh;Другие партии;Canada
+kellyblockmp;Консервативная партия;Canada
+jamesbezan;Консервативная партия;Canada
+LucBerthold;Консервативная партия;Canada
+MikeBarrettON;Консервативная партия;Canada
+JohnRBarlow;Консервативная партия;Canada
+tony_baldinelli;Консервативная партия;Canada
+MelArnoldMP;Консервативная партия;Canada
+DeanAllisonMP;Консервативная партия;Canada
+DanAlbas;Консервативная партия;Canada
+ScottAAitchison;Консервативная партия;Canada
+ziad_aboultaif;Консервативная партия;Canada
+PierrePoilievre;Консервативная партия;Canada
+ShafqatAliAu;Либеральная партия;Canada
+jwaldag;Либеральная партия;Canada
+AnitaAnandMP;Либеральная партия;Canada
+OmarAlghabra;Либеральная партия;Canada
+karinagould;Либеральная партия;Canada
+fp_champagne;Либеральная партия;Canada
+PattyHajdu;Либеральная партия;Canada
+HarjitSajjan;Либеральная партия;Canada
+jyduclos;Либеральная партия;Canada
+DLeBlancNB;Либеральная партия;Canada
+Carolyn_Bennett;Либеральная партия;Canada
+l_macaulay;Либеральная партия;Canada
+cafreeland;Либеральная партия;Canada
+JustinTrudeau;Либеральная партия;Canada
+JohnHealey;;GreatBritain
+LordRoyKennedy;;GreatBritain
+AlanCampbellMP;;GreatBritain
+LadyBasildon;;GreatBritain
+ThangamMP;;GreatBritain
+PreetKGillMP;;GreatBritain
+DrRosena;;GreatBritain
+EmilyThornberry;;GreatBritain
+ShabanaMahmood;;GreatBritain
+PatMFaddenMP;;GreatBritain
+JennyChapman;;GreatBritain
+PeterKyle;;GreatBritain
+IanMurrayMP;;GreatBritain
+JoStevensLabour;;GreatBritain
+LouHaigh;;GreatBritain
+JimfromOldham;;GreatBritain
+LucyMPowell;;GreatBritain
+WesStreeting;;GreatBritain
+Ed_Miliband;;GreatBritain
+JReynoldsMP;;GreatBritain
+JonAshworth;;GreatBritain
+NickTorfaenMP;;GreatBritain
+LisaNandy;;GreatBritain
+BPhillipsonMP;;GreatBritain
+YvetteCooperMP;;GreatBritain
+DavidLammy;;GreatBritain
+RachelReevesMP;;GreatBritain
+AnnelieseDodds;;GreatBritain
+AngelaRayner;;GreatBritain
+Keir_Starmer;;GreatBritain
+JohnyMercerUK;;GreatBritain
+AndrewMitchMP;;GreatBritain
+TomTugendhat;;GreatBritain
+RobertJenrick;;GreatBritain
+VictoriaPrentis;;GreatBritain
+JohnGlenUK;;GreatBritain
+SimonHartMP;;GreatBritain
+GregHands;;GreatBritain
+LucyFrazerMP;;GreatBritain
+MichelleDonelan;;GreatBritain
+DavidDavisMP;;GreatBritain
+ScotSecofState;;GreatBritain
+CHHcalling;;GreatBritain
+Mark_J_Harper;;GreatBritain
+MichaelGove;;GreatBritain
+ThereseCoffey;;GreatBritain
+GrantShapps;;GreatBritain
+GillianKeegan;;GreatBritain
+KemiBadenoch;;GreatBritain
+PennyMordaunt;;GreatBritain
+MelJStride;;GreatBritain
+SteveBarclay;;GreatBritain
+OliverDowden;;GreatBritain
+BWallaceMP;;GreatBritain
+SuellaBraverman;;GreatBritain
+JamesCleverly;;GreatBritain
+Jeremy_Hunt;;GreatBritain
+DominicRaab;;GreatBritain
+RishiSunak;;GreatBritain
+LindsayHoyle_MP;;GreatBritain
+LordSpeaker;;GreatBritain
+instituteGC;Институт Тони Блэра;GreatBritain
+gaspo_sk;;Ukr
+andrewPerpetua;;Ukr
